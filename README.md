@@ -18,4 +18,5 @@ commit -m<br>
 push <br>
 - publish/share <br>
 log <br>
-record of all the commits 
+- record of all the commits <br>
+- to quit press Q<br>
